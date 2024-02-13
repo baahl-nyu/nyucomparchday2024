@@ -2,6 +2,9 @@
 
 We will be updating this website with specifics in the coming weeks. We hope to see you there!
 
+## RSVP Form
+[https://forms.gle/zn9gp8bZMMHKgC1P6](https://forms.gle/zn9gp8bZMMHKgC1P6)
+
 ## Date
 Friday March 22, 2024 from ~10AM - 5PM.
 
