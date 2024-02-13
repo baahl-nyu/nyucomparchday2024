@@ -1,3 +1,9 @@
 # NYU Computer Architecture Day 2024
 
-We are hosting the NYU Computer Architecture Day @ NYU Tandon in Downtown Brooklyn on Friday, March 22 2024 from ~10AM to 5PM. This will be an opportunity to engage and exchange ideas with fellow computer architects in an informal setting, and we hope to see you there! We will update this website with specifics in the coming weeks.
+We will be updating this website with specifics in the coming weeks. We hope to see you there!
+
+## Date
+Friday March 22, 2024 from ~10AM - 5PM.
+
+## Location
+This event will be held at Electrical and Computer Engineering Department at [NYU Tandon in Downtown Brooklyn](https://maps.app.goo.gl/ZAwAU7i2kMvLDHMXA). 
