@@ -1,9 +1,37 @@
 # NYU Computer Architecture Day 2024
 
-We will be updating this website with specifics in the coming weeks. We hope to see you there!
+## Scope
+This will be an opportunity to engage and exchange ideas with fellow computer architects in an informal setting. We hope to see you there!
+
+## Schedule (Tentative)
+
+Please feel free to arrive early to NYU Tandon (location below). We will have a welcome booth setup on the first floor. 
+
+| Time        | Event          | 
+|:-------------|:------------------|
+| 10:20 - 10:30           | Welcome                           | 
+| 10:30 - 11:30           | Brannon Batson - Keynote Talk     | 
+| 11:30 - 12:30           | Student Presentations - Session 1 | 
+| 12:30 - 2:30            | Lunch (on your own, suggestions below!)                           |
+| 3:00 - 4:45             | Student Presentations - Session 2 |
+| 4:45 - 5:00 | Closing Remarks | 
+| 5:00 - | Socializing, dinner, drinks (on your own!) |
+
+
+## Keynote
+### Title
+Using Specialized Hardware Pipelines to Massively Accelerate Molecular Dynamics Simulations in Anton 3
+
+### Abstract
+At D. E. Shaw Research, we have designed and built multiple generations of highly successful special-purpose supercomputers for molecular dynamics simulations.  The newest generation, Anton 3, achieves simulation speeds at least 100-fold faster than any other currently available supercomputer on a wide range of biomolecular systems.  Anton machines are an essential foundational technology for our scientific and drug discovery efforts.  This talk will describe how we co-design hardware, software, and algorithms to accelerate both research and drug discovery, focusing on how specialized hardware pipelines contribute to the enormous speedups that Anton machines achieve.
+
+### Speaker Bio
+Brannon Batson has been a hardware design engineer at D. E. Shaw Research since 2005, contributing to the design of all Anton machines to date.  His focus is on the specialized arithmetic pipelines.  This role includes high-level architecture, performance modeling, microarchitecture, numerical analysis, and physical design.
+ 
+Brannon received a B.S. in computer engineering and an M.S. in electrical engineering from Purdue University.  Prior to joining D. E. Shaw Research, Brannon was a Senior Hardware Engineer at Intel Corporation, where he was a member of the lead architecture group for a next-generation processor and the lead inventor of the QuickPath Interconnect (QPI) cache coherency protocol.
 
 ## RSVP Form
-[https://forms.gle/zn9gp8bZMMHKgC1P6](https://forms.gle/zn9gp8bZMMHKgC1P6)
+[https://forms.gle/zn9gp8bZMMHKgC1P6](https://forms.gle/zn9gp8bZMMHKgC1P6) (**Closed**)
 
 ## Date
 Friday March 22, 2024 from ~10AM - 5PM.
@@ -24,3 +52,5 @@ Brooklyn, NY 11201.
 4. [(Railroad) From NY Penn Station](https://maps.app.goo.gl/ELuXMygkWwCVYgwH6): take the subway A/C line (Brooklyn-bound) and get off at Jay St-MetroTech Station. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d756.2840851250613!2d-73.98774188084815!3d40.69299482413588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25be1ee62a433%3A0xd94c043e002bb91b!2sNew%20York%20University%2C%20Tandon%20School%20of%20Engineering%2C%20Electrical%20and%20Computer%20Engineering!5e0!3m2!1sen!2sus!4v1710130846550!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Food Options
