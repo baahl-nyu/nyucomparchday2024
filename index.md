@@ -5,7 +5,7 @@ This will be an opportunity to engage and exchange ideas with fellow computer ar
 
 ## Schedule (Tentative)
 
-Please feel free to arrive early to NYU Tandon (location below). We will have a welcome booth setup on the first floor. 
+Please feel free to arrive early to NYU Tandon (location below). We will have a welcome booth setup on the first floor and there will be refreshments on the 12th floor (where the event is being held).  
 
 | Time        | Event          | 
 |:-------------|:------------------|
