@@ -49,8 +49,10 @@ Brannon received a B.S. in computer engineering and an M.S. in electrical engine
 | Kaifeng Xu                      | Princeton University               | Temporal Branch Predictor Prefetching for Serverless Invocations                         | 
 | Joseph Zuckerman                | Columbia University                | EPOCHS-1: A Case-Study in Collaborative System-on-Chip Design with ESP                   |
 | Deniz Najafi / Mehrdad Morsali  | New Jersey Institute of Technology | OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing       | 
+| Nisarg Ujjainkar                | University Of Rochester            | Exploiting Human Color Discrimination for Memory- and Energy-Efficient Image Encoding in Virtual Reality       | 
 | Austin Ebel / Karthik Garimella | New York University                | Orion: A Fully Homomorphic Encryption Compiler for Private Deep Neural Network Inference | 
-| August Ning                     | Princeton University               | Chip Architectures Under Advanced Computing Sanctions                                    | 
+| Adam Hastings                   | Columbia University                | The Economics of Hardware Security | 
+| August Ning                     | Princeton University               | Chip Architectures Under Advanced Computing Sanctions                                    |
 | Rohan Baskar Prabhakar          | Princeton University               | System Aware Transformer Model Design                                                    |
 | Haiyue Ma                       | Princeton University               | A Hardware AI Kill Switch                                                                |
 | Anthony Etim                    | Yale University                    | Covert Channels in FPGA-enabled SmartSSDs                                                |
