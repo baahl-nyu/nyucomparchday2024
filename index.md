@@ -30,6 +30,33 @@ Brannon Batson has been a hardware design engineer at D. E. Shaw Research since 
  
 Brannon received a B.S. in computer engineering and an M.S. in electrical engineering from Purdue University.  Prior to joining D. E. Shaw Research, Brannon was a Senior Hardware Engineer at Intel Corporation, where he was a member of the lead architecture group for a next-generation processor and the lead inventor of the QuickPath Interconnect (QPI) cache coherency protocol.
 
+## Student Presentations
+### Session 1:
+
+| Name        | Affiliation         | Title |
+|:-------------|:------------------|:------------------|
+| Muhammed Ugur      | Yale University                    | Swapping-Centric Neural Interfaces                                                              | 
+| Harry Liu          | Columbia University                | Micro-architectural Characterization and Optimization of Protocol Buffers                       |
+| Ranyang Zhou       | New Jersey Institute of Technology | DRAM-Locker: A General-Purpose DRAM Protection Mechanism against Adversarial DNN Weight Attacks | 
+| Kaustubh Shivdikar | Northeastern University            | Micro-architectural extensions for AMD GPUs to accelerate Large Language Models                 | 
+| Hengrui Zhang      | Princeton University               | LLMCompass: A Hardware Evaluation Framework for LLM Workloads                                   | 
+| Jianqiao Mo        | New York University                | HAAC: A Hardware-software Co-design to Accelerate Garbled Circuits                              |
+
+### Session 2:
+
+| Name        | Affiliation         | Title |
+|:-------------|:------------------|:------------------|
+| Kaifeng Xu                      | Princeton University               | Temporal Branch Predictor Prefetching for Serverless Invocations                         | 
+| Joseph Zuckerman                | Columbia University                | EPOCHS-1: A Case-Study in Collaborative System-on-Chip Design with ESP                   |
+| Deniz Najafi / Mehrdad Morsali  | New Jersey Institute of Technology | OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing       | 
+| Austin Ebel / Karthik Garimella | New York University                | Orion: A Fully Homomorphic Encryption Compiler for Private Deep Neural Network Inference | 
+| August Ning                     | Princeton University               | Chip Architectures Under Advanced Computing Sanctions                                    | 
+| Rohan Baskar Prabhakar          | Princeton University               | System Aware Transformer Model Design                                                    |
+| Haiyue Ma                       | Princeton University               | A Hardware AI Kill Switch                                                                |
+| Anthony Etim                    | Yale University                    | Covert Channels in FPGA-enabled SmartSSDs                                                |
+
+
+
 ## RSVP Form
 [https://forms.gle/zn9gp8bZMMHKgC1P6](https://forms.gle/zn9gp8bZMMHKgC1P6) (**Closed**)
 
