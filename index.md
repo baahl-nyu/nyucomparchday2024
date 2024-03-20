@@ -89,3 +89,5 @@ There are two food halls close to NYU that offer a variety of cuisines:
 2. [Timeout Market](https://www.timeoutmarket.com/newyork/eat-and-drink/) ([Directions](https://www.google.com/maps/dir/NYU+370+Jay+Street,+Jay+Street,+Brooklyn,+NY/Time+Out+Market+New+York,+Water+Street,+Brooklyn,+NY/@40.6981729,-73.9946897,16z/data=!3m2!4b1!5s0x89c25b30688676cd:0xb6bbb79eb5db6835!4m14!4m13!1m5!1m1!1s0x89c25b25f0877c77:0xc2ad290d7a15945c!2m2!1d-73.9874613!2d40.6929116!1m5!1m1!1s0x89c25bac5902a3f5:0xd416713099467264!2m2!1d-73.9921457!2d40.7034205!3e2?entry=ttu))
 
 We are also only two stops away (via the F line) from Chinatown ([Directions](https://maps.app.goo.gl/fdtUXLBMGjBdhZph8)]
+
+There are also plenty of restaurants around NYU on Atlantic Avenue, Court Stree, and Smith Street ([Map](https://www.google.com/maps/search/food/@40.6861955,-73.9939621,16.36z/data=!4m2!2m1!6e5?entry=ttu))
