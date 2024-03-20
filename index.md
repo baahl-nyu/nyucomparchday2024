@@ -12,7 +12,7 @@ Please feel free to arrive early to NYU Tandon (location below). We will have a 
 | 10:20 - 10:30           | Welcome                           | 
 | 10:30 - 11:30           | Brannon Batson - Keynote Talk     | 
 | 11:30 - 12:30           | Student Presentations - Session 1 | 
-| 12:30 - 2:30            | Lunch (on your own, suggestions below!)                           |
+| 12:30 - 3:00            | Lunch (on your own, suggestions below!)                           |
 | 3:00 - 4:45             | Student Presentations - Session 2 |
 | 4:45 - 5:00 | Closing Remarks | 
 | 5:00 - | Socializing, dinner, drinks (on your own!) |
@@ -83,3 +83,9 @@ Brooklyn, NY 11201.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d756.2840851250613!2d-73.98774188084815!3d40.69299482413588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25be1ee62a433%3A0xd94c043e002bb91b!2sNew%20York%20University%2C%20Tandon%20School%20of%20Engineering%2C%20Electrical%20and%20Computer%20Engineering!5e0!3m2!1sen!2sus!4v1710130846550!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Food Options
+
+There are two food halls close to NYU that offer a variety of cuisines:
+1. [Dekalb Market](https://www.dekalbmarkethall.com/vendors) ([Directions](https://www.google.com/maps/dir/NYU+370+Jay+Street,+Jay+Street,+Brooklyn,+NY/Dekalb+Market+Hall,+445+Albee+Square+W,+Brooklyn,+NY+11201/@40.6914489,-73.9865644,18z/data=!3m2!4b1!5s0x89c25b30688676cd:0xb6bbb79eb5db6835!4m14!4m13!1m5!1m1!1s0x89c25b25f0877c77:0xc2ad290d7a15945c!2m2!1d-73.9874613!2d40.6929116!1m5!1m1!1s0x89c25a4ca910d461:0x1caa501f19f74680!2m2!1d-73.9830574!2d40.6907617!3e2?entry=ttu))
+2. [Timeout Market](https://www.timeoutmarket.com/newyork/eat-and-drink/) ([Directions](https://www.google.com/maps/dir/NYU+370+Jay+Street,+Jay+Street,+Brooklyn,+NY/Time+Out+Market+New+York,+Water+Street,+Brooklyn,+NY/@40.6981729,-73.9946897,16z/data=!3m2!4b1!5s0x89c25b30688676cd:0xb6bbb79eb5db6835!4m14!4m13!1m5!1m1!1s0x89c25b25f0877c77:0xc2ad290d7a15945c!2m2!1d-73.9874613!2d40.6929116!1m5!1m1!1s0x89c25bac5902a3f5:0xd416713099467264!2m2!1d-73.9921457!2d40.7034205!3e2?entry=ttu))
+
+We are also only two stops away (via the F line) from Chinatown ([Directions](https://maps.app.goo.gl/fdtUXLBMGjBdhZph8)]
