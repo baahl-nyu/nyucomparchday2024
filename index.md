@@ -3,6 +3,9 @@
 ## Scope
 This will be an opportunity to engage and exchange ideas with fellow computer architects in an informal setting. We hope to see you there!
 
+## Date
+Friday March 22, 2024 from ~10AM - 5PM.
+
 ## Schedule (Tentative)
 
 Please feel free to arrive early to NYU Tandon (location below). We will have a welcome booth setup on the first floor and there will be refreshments on the 12th floor (where the event is being held).  
@@ -61,9 +64,6 @@ Brannon received a B.S. in computer engineering and an M.S. in electrical engine
 
 ## RSVP Form
 [https://forms.gle/zn9gp8bZMMHKgC1P6](https://forms.gle/zn9gp8bZMMHKgC1P6) (**Closed**)
-
-## Date
-Friday March 22, 2024 from ~10AM - 5PM.
 
 ## Location
 This event will be held at the Electrical and Computer Engineering Department at [NYU Tandon in Downtown Brooklyn](https://maps.app.goo.gl/ZAwAU7i2kMvLDHMXA).
