@@ -14,11 +14,11 @@ Please feel free to arrive early to NYU Tandon (location below). We will have a 
 |:-------------|:------------------|
 | 10:20 - 10:30           | Welcome                                    | 
 | 10:30 - 11:30           | Brannon Batson - Keynote Talk              | 
-| 11:30 - 12:30           | Student Presentations - Session 1          | 
+| 11:30 - 12:30           | Student Presentations - Session 1 (Session Chair: Negar Neda)          | 
 | 12:30 - 2:00            | Lunch (on your own, suggestions below!)    |
-| 2:15 - 3:15             | Student Presentations - Session 2          |
+| 2:15 - 3:15             | Student Presentations - Session 2 (Session Chair: Jianqiao Mo)         |
 | 3:15 - 3:30             | Break                                      |
-| 3:30 - 4:15             | Student Presentations - Session 3          | 
+| 3:30 - 4:15             | Student Presentations - Session 3  (Session Chair: Austin Ebel)        | 
 | 4:15 - 4:30             | Closing Remarks                            | 
 | 4:30 -                  | Socializing, drinks, dinner (on your own!) |
 
