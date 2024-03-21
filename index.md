@@ -90,4 +90,4 @@ There are two food halls close to NYU that offer a variety of cuisines:
 
 We are also only two stops away (via the F line) from Chinatown ([Directions](https://maps.app.goo.gl/fdtUXLBMGjBdhZph8)]
 
-There are also plenty of restaurants around NYU on Atlantic Avenue, Court Stree, and Smith Street ([Map](https://www.google.com/maps/search/food/@40.6861955,-73.9939621,16.36z/data=!4m2!2m1!6e5?entry=ttu))
+There are also plenty of restaurants around NYU on Atlantic Avenue, Court Street, and Smith Street ([Map](https://www.google.com/maps/search/food/@40.6861955,-73.9939621,16.36z/data=!4m2!2m1!6e5?entry=ttu))
