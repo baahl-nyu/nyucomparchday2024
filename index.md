@@ -59,6 +59,7 @@ Brannon received a B.S. in computer engineering and an M.S. in electrical engine
 | Adam Hastings                   | Columbia University                | The Economics of Hardware Security | 
 
 ### Session 3:
+
 | Name        | Affiliation         | Title |
 |:-------------|:------------------|:------------------|
 | August Ning                     | Princeton University               | Chip Architectures Under Advanced Computing Sanctions                                    |
