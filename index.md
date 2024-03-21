@@ -12,13 +12,15 @@ Please feel free to arrive early to NYU Tandon (location below). We will have a 
 
 | Time        | Event          | 
 |:-------------|:------------------|
-| 10:20 - 10:30           | Welcome                           | 
-| 10:30 - 11:30           | Brannon Batson - Keynote Talk     | 
-| 11:30 - 12:30           | Student Presentations - Session 1 | 
-| 12:30 - 3:00            | Lunch (on your own, suggestions below!)                           |
-| 3:00 - 4:45             | Student Presentations - Session 2 |
-| 4:45 - 5:00 | Closing Remarks | 
-| 5:00 - | Socializing, dinner, drinks (on your own!) |
+| 10:20 - 10:30           | Welcome                                    | 
+| 10:30 - 11:30           | Brannon Batson - Keynote Talk              | 
+| 11:30 - 12:30           | Student Presentations - Session 1          | 
+| 12:30 - 2:00            | Lunch (on your own, suggestions below!)    |
+| 2:15 - 3:15             | Student Presentations - Session 2          |
+| 3:15 - 3:30             | Break                                      |
+| 3:30 - 4:15             | Student Presentations - Session 3          | 
+| 4:15 - 4:30             | Closing Remarks                            | 
+| 4:30 -                  | Socializing, drinks, dinner (on your own!) |
 
 
 ## Keynote
@@ -55,11 +57,14 @@ Brannon received a B.S. in computer engineering and an M.S. in electrical engine
 | Nisarg Ujjainkar                | University Of Rochester            | Exploiting Human Color Discrimination for Memory- and Energy-Efficient Image Encoding in Virtual Reality       | 
 | Austin Ebel / Karthik Garimella | New York University                | Orion: A Fully Homomorphic Encryption Compiler for Private Deep Neural Network Inference | 
 | Adam Hastings                   | Columbia University                | The Economics of Hardware Security | 
+
+### Session 3:
+| Name        | Affiliation         | Title |
+|:-------------|:------------------|:------------------|
 | August Ning                     | Princeton University               | Chip Architectures Under Advanced Computing Sanctions                                    |
 | Rohan Baskar Prabhakar          | Princeton University               | System Aware Transformer Model Design                                                    |
 | Haiyue Ma                       | Princeton University               | A Hardware AI Kill Switch                                                                |
 | Anthony Etim                    | Yale University                    | Covert Channels in FPGA-enabled SmartSSDs                                                |
-
 
 
 ## RSVP Form
