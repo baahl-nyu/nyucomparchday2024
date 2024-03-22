@@ -55,7 +55,7 @@ Brannon received a B.S. in computer engineering and an M.S. in electrical engine
 | Joseph Zuckerman                | Columbia University                | EPOCHS-1: A Case-Study in Collaborative System-on-Chip Design with ESP                   |
 | Deniz Najafi / Mehrdad Morsali  | New Jersey Institute of Technology | OISA: Architecting an Optical In-Sensor Accelerator for Efficient Visual Computing       | 
 | Nisarg Ujjainkar                | University Of Rochester            | Exploiting Human Color Discrimination for Memory- and Energy-Efficient Image Encoding in Virtual Reality       | 
-| Adam Hastings                   | Columbia University                | The Economics of Hardware Security | 
+| Adam Hastings                   | Columbia University                | FAIRSHARE: Measuring Security Overheads On-Device and In Situ | 
 | Jian Zhang | Rutgers University | OmniCache: Collaborative Caching for Near-storage Accelerators | 
 
 ### Session 3:
